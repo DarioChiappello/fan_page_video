@@ -1,7 +1,7 @@
 # fan_page_video
 Fan Page con HTML, CSS y Plugin de JQuery para usar un video como background 
 
-
+JQuery Plugin --> vide-master
 
 El navegador puede bloquear los plugins de JQuery. Cargar secuencias de de comandos inseguros en el navegador en caso de que el video
 no se reproduzca.
