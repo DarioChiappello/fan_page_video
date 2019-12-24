@@ -21,7 +21,7 @@ html, body {
 	width:1170px;
 	margin: 0 auto;
 
-    
+
 	
 }
 
@@ -83,7 +83,7 @@ nav ul li a {
 
 h2 {
 	color:#CA0D04;
-	font-family: Audiowide;
+	font-family: rammstein;
 	font-size:60px;
 }
 
@@ -101,8 +101,13 @@ h2 {
 }
 
 .content-text p {
-	color:#CA0D04;
+	color:white;
 	font-size:30px;
+}
+
+.content-text a {
+	color:white;
+	font-size:18px;
 }
 
 
